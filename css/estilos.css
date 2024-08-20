@@ -16,7 +16,11 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
+<<<<<<< HEAD
     padding: 0.5em 0 0.5em 2em;
+=======
+    padding: 0.6em;
+>>>>>>> footer
 
 
 }
@@ -50,10 +54,13 @@ body
 
 #post
 {
-    background: white;
     padding: 1em;
-    
-
 }
 
-
+#footer
+{
+ background: #777;
+ color: white;
+ text-align: center;
+ padding: 0.5em;
+}
