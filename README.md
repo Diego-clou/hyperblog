@@ -4,16 +4,6 @@ Un blog increible para el [curso de Git y Github](https://platzi.com/cursos/git-
 > - niñita
 
 ## En este curso vemos de todo:
-<<<<<<< HEAD
-* Todos los comandos de Git
-* El flujo de trabajo de Github
-* El verdadero amor por las buenas practicas
-* Trucos muy locos del profesor
-* Las  personalidades multiples de Diego
-* Creado por el increíble Curso de Platzi
-
-Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo . Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a **[ve a ver el curso**](https://platzi.com/cursos/git-github/ "ve a ver el curso")
-=======
 *Todos los comandos de Git
 *El flujo de trabajo de Github
 *El verdadero amor por las buenas practicas
@@ -21,4 +11,3 @@ Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado para el
 *Las  personalidades multiples de Diego
 
 Y como un amable recordatorio:**Este readme.md es un chiste**. Diseñado para el ejemplo . Si llegas aca NO TE LO TOMES EN SERIO y mejor ve a **[ve a ver el curso**](https://platzi.com/cursos/git-github/ "ve a ver el curso")
->>>>>>> d69fc2b6388263f9ae9b8a0a81fbbc4abfca5e23
